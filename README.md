@@ -1,2 +1,0 @@
-# talk-slides
-Talk slides
